@@ -31,7 +31,13 @@ portfolio/
     |── script.js (for interactivity)
 
 
+## 🔗 Live Demo
 
+Check out the live version of my portfolio here:
+
+👉 [Live Demo](https://swa-thi1.github.io/Portfolio/)
+
+This site is fully responsive and includes interactive skill tags, project highlights, and a resume download feature.
 
 
 
